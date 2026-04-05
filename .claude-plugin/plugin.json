@@ -1,0 +1,8 @@
+{
+  "name": "agilefitness",
+  "description": "Claude Code skills based on Fitness and Wellness for Modern Human by Manjeet Singh — interactive coaching for physical fitness, nutrition, weight loss, longevity, and more.",
+  "version": "1.0.0",
+  "author": "Manjeet Singh",
+  "repository": "https://github.com/coachmanjeet/agilefitness",
+  "license": "MIT"
+}

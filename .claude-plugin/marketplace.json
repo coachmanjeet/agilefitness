@@ -1,0 +1,8 @@
+{
+  "plugins": [
+    {
+      "name": "agilefitness",
+      "config": ".claude-plugin/plugin.json"
+    }
+  ]
+}
