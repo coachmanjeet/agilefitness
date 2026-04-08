@@ -1,6 +1,6 @@
 # AgileFitness Skills
 
-**Interactive fitness and wellness coaching powered by Claude Code.**
+**Interactive fitness and wellness coaching.**
 
 Based on the book *Fitness and Wellness for Modern Human* by Manjeet Singh (Certified Fitness Trainer, Certified Nutrition Coach, Author & Speaker), these skills give you a personal coach that assesses your situation, answers your questions, and guides you through proven frameworks for physical fitness, nutrition, weight loss, longevity, and more.
 
