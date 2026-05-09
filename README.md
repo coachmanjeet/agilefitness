@@ -20,7 +20,7 @@ Each skill:
 
 ---
 
-## The 7 Skills
+## The 8 Skills
 
 The skills follow the book's progression. Start with the foundations, then go deep on what matters to you.
 
@@ -33,6 +33,7 @@ The skills follow the book's progression. Start with the foundations, then go de
 | 5 | **Longevity** | `/longevity` | 6 health KPIs to track, 23 natural sleep fixes, recovery protocols, breathing techniques, biohacks from longevity experts |
 | 6 | **Future of Fitness** | `/future-of-fitness` | Where health tech is heading — wearables, AI, genomics, stem cells, and what it means for your fitness journey |
 | 7 | **My Blueprint** | `/my-blueprint` | The author's personal daily system (diet, workouts, morning routine) + a fill-in template to build YOUR own blueprint |
+| 8 | **Fitness Lessons** | `/fitness-lessons` | Hard-won personal lessons on healthspan — fitness benchmarks, supplement stack, blood markers, advanced practices, and the 6 mindsets for living young at any age |
 
 ---
 
@@ -103,6 +104,7 @@ Use the fitness-wellness skill from https://github.com/coachmanjeet/agilefitness
 | Fix my diet | `/nutrition` |
 | Sleep better / live longer | `/longevity` |
 | Get a complete system | `/my-blueprint` |
+| Apply real-world lessons & benchmarks | `/fitness-lessons` |
 | Just get started | `/fitness-wellness` |
 
 ---
@@ -174,6 +176,16 @@ Use the fitness-wellness skill from https://github.com/coachmanjeet/agilefitness
 - **Key mantras and principles**
 - **Fill-in blueprint template** to create your own personalized system
 
+### `/fitness-lessons` — Hard-Won Personal Lessons
+- **Healthspan mindset:** Body as operating system, trio of total health (strength, speed, endurance)
+- **9 longevity fitness benchmarks:** Mile run, squat BW, pull-ups, farmer carry, dead hang, sit-and-raise, and more
+- **Supplement stack:** Foundations (protein, creatine, D3/K2) through longevity-focused (NMN, Resveratrol, TMG)
+- **Blood work markers:** What to track annually and how to interpret flags (LDL, Vitamin D, eGFR, and more)
+- **Advanced practices:** Nauli Kriya, Shankhasan, Wim Hof breathing, cold therapy, sauna
+- **6 mindsets for longevity:** Abundance, Exponential, Longevity, Moonshot, Purpose, Gratitude
+- **Life quality matrix:** How to allocate time between creating, consuming, and meaning — alone and with others
+- **Recommended reading list:** Outlive, Lifespan, Young Forever, and more
+
 ---
 
 ## Repository Structure
@@ -196,8 +208,10 @@ agilefitness/
 │   │   └── SKILL.md         # Health KPIs, sleep, breathing, biohacks
 │   ├── future-of-fitness/
 │   │   └── SKILL.md         # Tech trends, wearables, genomics
-│   └── my-blueprint/
-│       └── SKILL.md         # Author's system + user template
+│   ├── my-blueprint/
+│   │   └── SKILL.md         # Author's system + user template
+│   └── fitness-lessons/
+│       └── SKILL.md         # Lessons learned, benchmarks, supplements, mindsets
 ├── README.md
 └── .gitignore
 ```
